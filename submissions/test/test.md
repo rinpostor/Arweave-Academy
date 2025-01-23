@@ -2,10 +2,10 @@
 
 ### Personal information
 
-- github account: 
-- Email: 
-- Arweave Address: 
-- ETH Address: 
+- github account: rinpostor
+- Email: sobirinabdan@gmail.com
+- Arweave Address: 9d0mr3EVsEMFLlhplFWh6LOmgNSHD_vMpzSBwgQfOWk
+- ETH Address: 0x987D6D13121879c11b77a5cfD0f6d7AF99FFB49a
 - Please finish this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link) to join in the talent pool.
 
 ### Introduce Yourself
